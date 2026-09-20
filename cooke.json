@@ -1,2 +1,5 @@
-test1
-fkkjd
+{
+  "version": "version 1.1",
+  "provider": "admob",
+  "check": "1"
+}
